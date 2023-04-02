@@ -17,7 +17,8 @@ Durante o curso, aprendemos todos os princípios básicos de **UI/UX Design** e 
 ---
 
 ## 🖥️ Demonstração
-[![Bikcraft]( "Clique para acessar o projeto")](https://danielangelo1.github.io/bikcraft/ "Clique para acessar o projeto")   
+<img width="946" alt="preview" src="https://user-images.githubusercontent.com/84107769/229358871-4d7e5706-9d56-4f30-ac36-1228b522d304.png">
+ 
 
 Você pode acessar o projeto clicando [aqui](https://danielangelo1.github.io/bikcraft/).
 
